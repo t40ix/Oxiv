@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xsiphr/Oxiv"><img src="https://img.shields.io/badge/Next.js-15.1-18181b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+  <a href="https://github.com/t40ix/Oxiv"><img src="https://img.shields.io/badge/Next.js-15.1-18181b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-18181b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-3.4-18181b?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-18181b?style=flat-square" alt="License"></a>
@@ -91,7 +91,7 @@ Oxiv acts as an unbuffered pass-through demuxer between social platform content 
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/xsiphr/Oxiv.git
+git clone https://github.com/t40ix/Oxiv.git
 cd Oxiv
 
 # 2. Install dependencies
